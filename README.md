@@ -1,1 +1,1 @@
-# <p align="center">Carpet Store Application</p>
+# <p align="center">Carpet Store Mobile Application</p>
